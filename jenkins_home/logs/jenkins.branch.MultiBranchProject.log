@@ -1,2 +1,0 @@
-[Sat Feb 04 15:58:57 UTC 2023] Received io.jenkins.blueocean.blueocean_github_pipeline.GithubPipelineCreateRequest$1 CREATED event from https://api.github.com with timestamp Sat Feb 04 15:58:57 UTC 2023
-[Sat Feb 04 15:58:57 UTC 2023] Finished processing io.jenkins.blueocean.blueocean_github_pipeline.GithubPipelineCreateRequest$1 CREATED event from https://api.github.com with timestamp Sat Feb 04 15:58:57 UTC 2023, processed in 1ms. Matched 0.
