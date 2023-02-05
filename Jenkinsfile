@@ -9,7 +9,7 @@ pipeline {
 
     stage('build') {
       steps {
-        sh 'echo \'hello\''
+        sh 'python3 -m autopep8 --diff ./src/main.py'
       }
     }
 
