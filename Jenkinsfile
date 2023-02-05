@@ -7,5 +7,11 @@ pipeline {
       }
     }
 
+    stage('Code quality') {
+      steps {
+        sh 'touch 1.txt'
+      }
+    }
+
   }
 }
